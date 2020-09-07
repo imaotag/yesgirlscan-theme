@@ -8,6 +8,10 @@
     "engines": {
         "vscode": "^1.48.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/imaotag/vscode-yesgirlscan-theme"
+	},
     "categories": [
         "Themes"
     ],
