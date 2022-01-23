@@ -4,7 +4,7 @@
     "description": "A feminine Color Theme. Because Tech is beautiful, feminine and diverse.",
     "version": "0.0.2",
     "icon": "images/logo.png",
-	"publisher": "steminist-ua",
+	"publisher": "imaotag",
     "engines": {
         "vscode": "^1.48.0"
     },
