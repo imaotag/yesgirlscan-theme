@@ -6,4 +6,4 @@ To attract more girls to STEM, we need to show the beauty, colorfulness and dive
 
 ![Theme Example](images/showcase.png)
 
-Brought to you by [Anastasiia IMAOTAG HUB](https://www.instagram.com/code.imaotag)
+Brought to you by [Anastasiia STEMINIST UA](https://www.instagram.com/steminist.ua/)
