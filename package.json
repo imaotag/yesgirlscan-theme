@@ -2,15 +2,15 @@
     "name": "yesgirlscan-theme",
     "displayName": "Yes Girls Can Theme",
     "description": "A feminine Color Theme. Because Tech is beautiful, feminine and diverse.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "images/logo.png",
-	"publisher": "imaotag",
+	"publisher": "steminist-ua",
     "engines": {
         "vscode": "^1.48.0"
     },
     "repository": {
 		"type": "git",
-		"url": "https://github.com/imaotag/vscode-yesgirlscan-theme"
+		"url": "https://github.com/steminist-ua/vscode-yesgirlscan-theme"
 	},
     "categories": [
         "Themes"
