@@ -1,4 +1,4 @@
-## Yes Girls Can Purple 
+## Yes Girls Can - Purple 
 A feminine color theme made for girls who love to code, support tech girls, and want a color theme to match their liking for purple 😊💜🤩
 
 To attract more girls to STEM, we need to show the beauty, colorfulness and diversity of this world. This is one of the options.
@@ -9,7 +9,7 @@ Remember, a Software Engineer should not use a dark theme unless they are comfor
 ### Theme Examples
 
 
-![Dark Theme Example](images/purple_dark.png)
-![Light Theme Example](images/purple_light.png)
+![Dark Theme Example](https://steminist.com.ua/wp-content/uploads/2022/06/purple_dark.png)
+![Light Theme Example](https://steminist.com.ua/wp-content/uploads/2022/06/purple_light.png)
 
 Brought to you by [Anastasiia STEMINIST UA](https://www.instagram.com/steminist.ua/)
