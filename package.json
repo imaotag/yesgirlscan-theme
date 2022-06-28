@@ -2,7 +2,7 @@
     "name": "yesgirlscan-theme",
     "displayName": "Yes Girls Can Theme",
     "description": "A feminine Color Theme. Because Tech is beautiful, feminine and diverse.",
-    "version": "0.0.7",
+    "version": "1.0.1",
     "icon": "images/logo.png",
 	"publisher": "imaotag",
     "engines": {
@@ -18,12 +18,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Yes Girls Can Purple (dark)",
+                "label": "Yes Girls Can - Purple (dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Yes Girls Can Theme-color-theme.json"
             },
             {
-                "label": "Yes Girls Can Purple (light)",
+                "label": "Yes Girls Can - Purple (light)",
                 "uiTheme": "vs",
                 "path": "./themes/Yes Girls Can Theme-color-theme-light.json"
             }
